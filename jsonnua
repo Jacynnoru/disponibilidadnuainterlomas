@@ -1,0 +1,56 @@
+{
+  "deptos": [
+ {
+    "id": "a",
+    "depto": "101"
+    "status": "disponible"
+    "costo": "102,000"
+  },
+  {
+    "id": "a",
+    "depto": "102"
+    "status": "reservado"
+    "costo": "102,000"
+  },
+   {
+    "id": "a",
+    "depto": "103"
+    "status": "disponible"
+    "costo": "102,000"
+  },
+   {
+    "id": "a",
+    "depto": "104"
+    "status": "vendido"
+    "costo": "102,000"
+  },
+   {
+    "id": "a",
+    "depto": "105"
+    "status": "disponible"
+    "costo": "102,000"
+  },
+   {
+    "id": "a",
+    "depto": "106"
+    "status": "reservado"
+    "costo": "102,000"
+  },
+   {
+    "id": "a",
+    "depto": "107"
+    "status": "disponible"
+    "costo": "102,000"
+  },
+   {
+    "id": "a",
+    "depto": "108"
+    "status": "vendido"
+    "costo": "102,000"
+  }, {
+    "id": "a",
+    "depto": "109"
+    "status": "vendido"
+    "costo": "102,000"
+  },
+  
