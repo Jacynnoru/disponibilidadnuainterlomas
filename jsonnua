@@ -1,58 +1,30 @@
 {
-  "Deptos": [
- {
-    "id": "a",
-    "depto": "101"
-    "status": "disponible"
-    "costo": "102,000"
-  },
-  {
-    "id": "a",
-    "depto": "102"
-    "status": "reservado"
-    "costo": "102,000"
-  },
-   {
-    "id": "a",
-    "depto": "103"
-    "status": "disponible"
-    "costo": "102,000"
-  },
-   {
-    "id": "a",
-    "depto": "104"
-    "status": "vendido"
-    "costo": "102,000"
-  },
-   {
-    "id": "a",
-    "depto": "105"
-    "status": "disponible"
-    "costo": "102,000"
-  },
-   {
-    "id": "a",
-    "depto": "106"
-    "status": "reservado"
-    "costo": "102,000"
-  },
-   {
-    "id": "a",
-    "depto": "107"
-    "status": "disponible"
-    "costo": "102,000"
-  },
-   {
-    "id": "a",
-    "depto": "108"
-    "status": "vendido"
-    "costo": "102,000"
-  }, {
-    "id": "a",
-    "depto": "109"
-    "status": "vendido"
-    "costo": "102,000"
-  },
- ]
+  "disponibles":[
+    {
+      "UserId": "0",
+      "depto": "101",
+      "costo": "126K",
+      "estatus": "disponible"
+    },
+     {
+      "UserId": "01",
+      "depto": "102",
+      "costo": "136K",
+      "estatus": "vendido"
+    },
+     {
+      "UserId": "02",
+      "depto": "103",
+      "costo": "142k",
+      "estatus": "reservado"
+    },
+     {
+      "UserId": "03",
+      "depto": "105",
+      "costo": "156K",
+      "estatus": "disponible"
+    },
+    
+  ]
 }
   
