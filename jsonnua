@@ -7,19 +7,19 @@
       "estatus": "reservado"
     },
      {
-      "UserId": "01",
+      "UserId": "1",
       "depto": "102",
       "costo": "136K",
       "estatus": "vendido"
     },
      {
-      "UserId": "02",
+      "UserId": "2",
       "depto": "103",
       "costo": "142k",
       "estatus": "reservado"
     },
      {
-      "UserId": "03",
+      "UserId": "3",
       "depto": "105",
       "costo": "156K",
       "estatus": "disponible"
